@@ -16,4 +16,4 @@ Tools Used:
 •	Excel
 
 𝗟𝗶𝗻𝗸𝘀:
-Live Dashboard: IPL-2024-Analysis
+Live Dashboard: [IPL-2024-Analysis](https://www.novypro.com/project/ipl-2024-analysis)https://www.novypro.com/project/ipl-2024-analysis
