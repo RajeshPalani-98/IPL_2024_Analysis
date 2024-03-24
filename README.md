@@ -6,7 +6,7 @@ The chief editor Tony Sharma oversees this publication, and he believes in data 
 
 𝗞𝗲y Analysis:
 •	Analysed the players performance of last three years by calculating the Average, Strike Rate, Boundary percentage, Economy, Dot ball percentage, etc, and grouped as Batsmen, All-rounder and Bowler.
-•	Picked my best 11 by analysing each player performance based on their roles and position.
+•	Picked my best 11 by analysing each player performance based on their roles and position. 
 •	Picked top 3 all-rounders based on their performance with bat and bowl.
 •	Predicted top 4 qualify teams, winner and runner of 2024 IPL using linear forecast method.
 
